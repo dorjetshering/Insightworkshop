@@ -1,4 +1,4 @@
-a = 5
+a = 4
 b = 6
 if a >= 5 or b <= 6:
     print('true')
